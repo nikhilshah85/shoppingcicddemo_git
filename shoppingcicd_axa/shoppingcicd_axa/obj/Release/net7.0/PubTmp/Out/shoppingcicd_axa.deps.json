@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "shoppingcicd_axa/1.0.0": {
+        "runtime": {
+          "shoppingcicd_axa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "shoppingcicd_axa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

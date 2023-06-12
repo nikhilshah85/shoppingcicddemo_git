@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="shoppingappcicd" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Administrator\\Desktop\\AXA\ Skilling\ -\ 2\\Day\ 18\\shoppingcicddemo_git\\shoppingcicd_axa\\shoppingcicd_axa\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

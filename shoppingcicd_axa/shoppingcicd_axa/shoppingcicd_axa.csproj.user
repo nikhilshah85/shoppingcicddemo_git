@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup />
+  <PropertyGroup>
+    <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Administrator\Desktop\AXA Skilling - 2\Day 18\shoppingcicddemo_git\shoppingcicd_axa\shoppingcicd_axa\Properties\PublishProfiles\shoppingappcicd - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
 </Project>

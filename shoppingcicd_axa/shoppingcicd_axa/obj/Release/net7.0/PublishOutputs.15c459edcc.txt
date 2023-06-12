@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\AXA Skilling - 2\Day 18\shoppingcicddemo_git\shoppingcicd_axa\shoppingcicd_axa\obj\Release\net7.0\PubTmp\Out\shoppingcicd_axa.exe
+C:\Users\Administrator\Desktop\AXA Skilling - 2\Day 18\shoppingcicddemo_git\shoppingcicd_axa\shoppingcicd_axa\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Administrator\Desktop\AXA Skilling - 2\Day 18\shoppingcicddemo_git\shoppingcicd_axa\shoppingcicd_axa\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Administrator\Desktop\AXA Skilling - 2\Day 18\shoppingcicddemo_git\shoppingcicd_axa\shoppingcicd_axa\obj\Release\net7.0\PubTmp\Out\shoppingcicd_axa.dll
+C:\Users\Administrator\Desktop\AXA Skilling - 2\Day 18\shoppingcicddemo_git\shoppingcicd_axa\shoppingcicd_axa\obj\Release\net7.0\PubTmp\Out\shoppingcicd_axa.deps.json
+C:\Users\Administrator\Desktop\AXA Skilling - 2\Day 18\shoppingcicddemo_git\shoppingcicd_axa\shoppingcicd_axa\obj\Release\net7.0\PubTmp\Out\shoppingcicd_axa.runtimeconfig.json
+C:\Users\Administrator\Desktop\AXA Skilling - 2\Day 18\shoppingcicddemo_git\shoppingcicd_axa\shoppingcicd_axa\obj\Release\net7.0\PubTmp\Out\shoppingcicd_axa.pdb
